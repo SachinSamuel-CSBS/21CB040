@@ -1,10 +1,10 @@
 const axios = require('axios');
 
 const details = {
-    companyName: "bdeiehhjhbf",
-    ownerName: "demoname",
+    companyName: "AMZcompany",
+    ownerName: "sachin",
     rollNo: "213218",
-    ownerEmail: "comapasdhsghdany@gmail2.com",
+    ownerEmail: "amz@gmail.com",
     accessCode: "DkAKTP"
 };
 
